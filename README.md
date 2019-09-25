@@ -12,3 +12,5 @@
   - [HANDLE_ERROR](https://github.com/memorycannibal/Practice-with-Requests/tree/master/Basic/test_handle_error)
   - [EVENT HOOK](https://github.com/memorycannibal/Practice-with-Requests/tree/master/Basic/test_event_hook)
   - [PROXY](https://github.com/memorycannibal/Practice-with-Requests/tree/master/Basic/test_proxy)
+- Посложнее
+  - [Jira report with API] https://github.com/memorycannibal/Practice-with-Requests/tree/master/Advanced%20Practice/simpleFramework
